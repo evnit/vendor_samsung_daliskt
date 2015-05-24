@@ -56,8 +56,8 @@ maxp2ga0=80
 sromrev=3
 cckpo=0
 ofdm2gpo=0x66666662
-mcs2gpo0=0xaaaa
-mcs2gpo1=0xaaaa
+mcs2gpo0=0x9999
+mcs2gpo1=0x9999
 
 # 5G PA offset
 maxp5ga0=66
