@@ -23,5 +23,4 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/daliskt/proprietary/lib/modules/exfat_fs.ko:system/lib/modules/exfat_fs.ko \
 	vendor/samsung/daliskt/proprietary/lib/libakm.so:system/lib/libakm.so \
 	vendor/samsung/daliskt/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
-	vendor/samsung/daliskt/proprietary/etc/init.d/91fixoverlays:system/etc/init.d/91fixoverlays \
 	vendor/samsung/daliskt/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so
